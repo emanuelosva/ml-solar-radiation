@@ -1,0 +1,23 @@
+# Jupiter Notebook
+.ipynb_checkpoints
+
+# Vs Code
+.vscode
+./.vscode
+
+# Docs and data
+Documentation
+mining_solar_info/solar_data.csv
+data
+data/*.csv
+test
+
+# Models
+**.sav
+**.pkl
+**.csv
+
+// Figures
+**.jpg
+**.png
+**.html
